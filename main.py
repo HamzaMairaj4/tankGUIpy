@@ -4,7 +4,7 @@ from tk_funct import *
 
 
 #creates the SQL table
-create_table()
+create_table() 
 
 
 #creates the root tkinter window
